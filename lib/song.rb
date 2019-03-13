@@ -1,8 +1,22 @@
 class Song
-attr_accessor :song
+attr_accessor :song, :artist, :genre
 
 def intialize
-    @@song_new=Lucifer
+Lucifer = Song.new ("Lucifer", "Jay-Z", "rap")
+
+def artists
+@@artists = Jay-Z
+end
+
+def song
+  @@song = Lucifer
+end
+
+def genre
+  @@genre = rap
+end
+
+
 
 
     
