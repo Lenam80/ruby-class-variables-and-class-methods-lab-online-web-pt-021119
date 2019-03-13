@@ -15,7 +15,7 @@ end
 def song
   @@song = Lucifer
   @@song = ninety nine problems
-  @@song = Hit me 
+  @@song = Hit me
 end
 
 
