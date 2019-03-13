@@ -5,5 +5,5 @@ def intialize
     @@song_new=Lucifer
 
 
-
+    
   
