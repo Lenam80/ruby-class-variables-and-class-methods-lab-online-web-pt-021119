@@ -15,8 +15,3 @@ end
 def genre
   @@genre = rap
 end
-
-
-
-
-    
